@@ -8,4 +8,4 @@ Student portfolio flutter app UI.
   
 ## APK file
 
-[APK file](https://github.com/ankitkurmi091/PortfolioAssignment/raw/refs/heads/main/student_portfolio.apk "Apk File")
+[APK file](https://github.com/ankitkurmi091/PortfolioAssignment/raw/refs/heads/main/updatedAPK.apk "Apk File")
